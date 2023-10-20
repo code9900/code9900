@@ -1,2 +1,2 @@
 # code9900
-about me and my experience, ideas, projects, etc.
+Hi, I'm a web devloper since 2020, and I love to code.
